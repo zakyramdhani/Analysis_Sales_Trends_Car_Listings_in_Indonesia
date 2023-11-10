@@ -1,0 +1,610 @@
+car name,brand,year,mileage (km),location,transmission,plate type,rear camera,sun roof,auto retract mirror,electric parking brake,map navigator,vehicle stability control,keyless push start,sports mode,360 camera view,power sliding door,auto cruise control,price (Rp),instalment (Rp|Monthly)
+AYLA X 1.2,Daihatsu,2018,10.508,Jakarta Utara,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,101000000,2060000
+AGYA TRD SPORTIVO 1.0,Toyota,2015,112.888,Bogor,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,82000000,1670000
+X-TRAIL 2.5,Nissan,2015,118.429,Surabaya,Automatic,odd plate,0,0,0,0,0,0,1,0,1,0,0,169000000,3440000
+YARIS S TRD 1.5,Toyota,2020,15.945,Tangerang Selatan,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,218000000,4440000
+AGYA G 1.2,Toyota,2019,30.404,Jakarta Barat,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,117000000,2380000
+AVANZA G 1.3,Toyota,2021,17.306,Tangerang Selatan,Manual,even plate,0,0,1,0,0,0,0,0,0,0,0,180000000,3670000
+AVANZA G 1.5,Toyota,2022,12.211,Surabaya,Manual,even plate,0,0,1,0,0,0,0,0,0,0,0,211000000,4300000
+OUTLANDER SPORT PX 2.0,Mitsubishi,2016,126.885,Bekasi,Automatic,even plate,0,1,1,0,0,0,0,0,0,0,0,190000000,3870000
+BRIO SATYA E 1.2,Honda,2019,33.464,Bandung,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,140000000,2850000
+HR-V S 1.5,Honda,2021,33.364,Malang,Automatic,odd plate,0,0,1,1,0,0,0,0,0,0,0,248000000,5050000
+AGYA G TRD 1.2,Toyota,2018,44.969,Bandung,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,117000000,2380000
+AYLA R 1.2,Daihatsu,2019,43.292,Depok,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,114000000,2320000
+AYLA R 1.2,Daihatsu,2019,57.385,Bekasi,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,110000000,2240000
+AYLA R DLX 1.2,Daihatsu,2017,53.151,Jakarta Selatan,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,115000000,2340000
+AGYA G TRD 1.2,Toyota,2019,46.182,Jakarta Utara,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,118000000,2400000
+ALMAZ LT LUX 1.5,Wuling,2019,58.152,Malang,Automatic,even plate,0,1,1,0,0,0,0,0,0,0,0,198000000,4030000
+TERIOS TX 1.5,Daihatsu,2015,118.704,Depok,Manual,odd plate,0,0,1,0,1,0,0,0,0,0,0,141000000,2870000
+AGYA G TRD 1.2,Toyota,2018,78.385,Bekasi,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,117000000,2380000
+MOBILIO E 1.5,Honda,2018,45.376,Jakarta Timur,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,155000000,3160000
+AYLA R 1.2,Daihatsu,2018,37.343,Bogor,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,108000000,2200000
+AYLA R 1.2,Daihatsu,2017,61.937,Jakarta Timur,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,105500000,2150000
+AYLA R 1.2,Daihatsu,2018,47.085,Bogor,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,111000000,2260000
+ERTIGA GL 1.5,Suzuki,2022,178.0,Bogor,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,190000000,3870000
+AYLA R 1.2,Daihatsu,2019,10.301,Tangerang Selatan,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,114000000,2320000
+CR-V TURBO 1.5,Honda,2017,75.302,Jakarta Utara,Automatic,even plate,0,0,0,1,0,0,1,0,0,0,0,340000000,6930000
+CONFERO 2WD 1.5,Wuling,2020,18.298,Malang,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,101500000,2069999
+ALMAZ LT LUX 1.5,Wuling,2019,50.387,Jakarta Timur,Automatic,odd plate,0,1,1,0,0,0,0,0,0,0,0,202000000,4120000
+LIVINA VL 1.5,Nissan,2019,64.235,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,197000000,4010000
+CALYA G 1.2,Toyota,2021,44.473,Bandung,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,138000000,2810000
+BRIO SATYA E 1.2,Honda,2018,24.577,Bandung,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,135000000,2750000
+TERIOS R 1.5,Daihatsu,2019,42.32,Bekasi,Manual,even plate,0,0,1,0,0,1,0,0,0,0,0,193000000,3930000
+AVANZA G 1.3,Toyota,2015,81.158,Surabaya,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,127000000,2590000
+HR-V S 1.5,Honda,2018,64.753,Bogor,Automatic,even plate,0,0,1,1,0,0,0,0,0,0,0,208000000,4240000
+XPANDER ULTIMATE 1.5,Mitsubishi,2019,72.887,Jakarta Utara,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,1,216000000,4400000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,77.425,Bandung,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,204000000,4160000
+AYLA X 1.0,Daihatsu,2016,63.175,Tangerang Selatan,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,89000000,1810000
+AGYA G TRD 1.2,Toyota,2020,43.689,Depok,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,123000000,2510000
+AYLA X 1.2,Daihatsu,2019,85.583,Bekasi,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,107000000,2180000
+CALYA G 1.2,Toyota,2020,54.512,Bekasi,Manual,even plate,0,0,1,0,0,0,0,0,0,0,0,133000000,2710000
+HR-V E 1.5,Honda,2019,35.177,Jakarta Timur,Automatic,odd plate,0,0,0,1,0,0,1,0,0,0,0,248000000,5050000
+OUTLANDER SPORT PX 2.0,Mitsubishi,2018,57.23,Jakarta Timur,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,228000000,4650000
+OUTLANDER SPORT GLS 2.0,Mitsubishi,2014,133.127,Jakarta Utara,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,157000000,3200000
+BRIO SATYA E 1.2,Honda,2019,34.815,Bandung,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,142000000,2890000
+AVANZA G 1.3,Toyota,2016,98.478,Jakarta Barat,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,143000000,2910000
+OUTLANDER SPORT PX 2.0,Mitsubishi,2016,91.926,Bogor,Automatic,odd plate,0,1,1,0,0,0,0,0,0,0,0,195000000,3970000
+HR-V SE 1.5,Honda,2018,62.209,Bekasi,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,254000000,5180000
+ALMAZ S+T 1.5,Wuling,2019,76.95,Bandung,Automatic,even plate,1,0,0,1,0,0,0,0,0,0,0,199000000,4050000
+IGNIS GL 1.2,Suzuki,2018,43.945,Bandung,Manual,odd plate,1,0,0,0,0,0,0,0,0,0,0,111500000,2270000
+ALMAZ S+T 1.5,Wuling,2019,27.804,Bandung,Automatic,odd plate,1,0,0,0,0,0,0,1,0,0,0,203000000,4139999
+AYLA R 1.2,Daihatsu,2018,85.184,Jakarta Pusat,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,117000000,2380000
+TERIOS R 1.5,Daihatsu,2019,40.717,Bogor,Manual,even plate,0,0,1,0,0,0,1,0,0,0,0,193000000,3930000
+XPANDER ULTIMATE 1.5,Mitsubishi,2019,63.13,Bogor,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,1,213000000,4340000
+CR-V TURBO 1.5,Honda,2017,64.558,Jakarta Selatan,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,335000000,6830000
+HR-V SE 1.5,Honda,2018,43.74,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,255000000,5200000
+KIJANG INNOVA REBORN G 2.0,Toyota,2017,51.254,Jakarta Barat,Manual,even plate,0,0,0,0,0,0,0,1,0,0,0,242000000,4930000
+MOBILIO RS 1.5,Honda,2016,84.06,Bogor,Automatic,even plate,1,0,0,0,0,0,0,1,0,0,0,155000000,3160000
+KIJANG INNOVA V 2.0,Toyota,2014,87.616,Tangerang Selatan,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,193000000,3930000
+AGYA G TRD 1.2,Toyota,2019,53.576,Bekasi,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,122000000,2490000
+KIJANG INNOVA G 2.0,Toyota,2016,74.73,Tangerang Selatan,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,233000000,4750000
+IGNIS GL 1.2,Suzuki,2017,79.289,Bandung,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,110000000,2240000
+AGYA GR SPORT 1.2,Toyota,2022,5.751,Bogor,Manual,even plate,0,0,1,0,0,0,0,0,0,0,0,143000000,2910000
+AYLA R 1.2,Daihatsu,2020,15.552,Bogor,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,123000000,2510000
+MOBILIO E 1.5,Honda,2014,84.575,Tangerang Selatan,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,127000000,2590000
+AYLA R 1.2,Daihatsu,2018,8.691,Bekasi,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,106000000,2160000
+TERIOS X DLX 1.5,Daihatsu,2021,29.897,Depok,Automatic,odd plate,1,0,0,0,0,0,0,0,0,0,0,207000000,4220000
+BRIO SATYA E 1.2,Honda,2020,15.855,Bogor,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,147000000,3000000
+HR-V SE 1.5,Honda,2018,83.286,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,257000000,5240000
+BRIO SATYA E 1.2,Honda,2018,36.455,Jakarta Barat,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,139000000,2830000
+BRIO RS 1.2,Honda,2020,46.441,Bogor,Automatic,odd plate,0,0,1,0,0,0,0,1,0,0,0,180000000,3670000
+FORTUNER VRZ 2.4,Toyota,2016,94.919,Jakarta Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,365000000,7440000
+CX-5 ELITE 2.5,Mazda,2019,45.271,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,426000000,8680000
+GRAND LIVINA XV 1.5,Nissan,2018,98.416,Jakarta Utara,Automatic,odd plate,1,0,0,0,0,0,0,0,0,0,0,148000000,3020000
+ERTIGA GL 1.5,Suzuki,2019,49.988,Tangerang Selatan,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,163000000,3320000
+AGYA G 1.0,Toyota,2017,78.175,Bogor,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,99000000,2020000
+AGYA G TRD 1.2,Toyota,2019,56.303,Jakarta Utara,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,128000000,2610000
+IGNIS GX 1.2,Suzuki,2021,27.044,Bekasi,Manual,odd plate,0,0,1,0,0,0,1,0,0,0,0,148000000,3020000
+HR-V S 1.5,Honda,2019,60.978,Jakarta Timur,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,231000000,4710000
+CORTEZ C T LUX 1.5,Wuling,2019,55.534,Surabaya,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,168000000,3420000
+ALMAZ RS LT LUX + SC CVT 1.5,Wuling,2021,38.223,Tangerang Selatan,Automatic,odd plate,0,1,0,0,0,0,0,0,1,0,0,273000000,5560000
+CONFERO S 1.5,Wuling,2019,32.63,Jakarta Barat,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,104000000,2120000
+AYLA X 1.0,Daihatsu,2019,73.528,Bekasi,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,100000000,2040000
+ALMAZ L TURBO 1.5,Wuling,2019,43.439,Bekasi,Automatic,odd plate,0,0,1,0,0,0,0,0,1,0,0,204000000,4160000
+AYLA R 1.2,Daihatsu,2019,25.4,Bogor,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,117000000,2380000
+KIJANG INNOVA REBORN VENTURER GASOLINE 2.0,Toyota,2017,89.898,Jakarta Utara,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,316000000,6440000
+AGYA G 1.0,Toyota,2014,95.007,Bandung,Manual,even plate,1,0,0,0,0,0,0,0,0,0,0,87000000,1770000
+BALENO HATCHBACK 1.4,Suzuki,2019,72.458,Jakarta Timur,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,176000000,3590000
+BALENO HATCHBACK 1.4,Suzuki,2019,41.091,Bogor,Manual,even plate,0,0,1,0,0,0,1,0,0,0,0,160000000,3260000
+AYLA R DLX 1.2,Daihatsu,2018,21.88,Tangerang Selatan,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,114000000,2320000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,66.471,Bogor,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,209000000,4260000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,57.815,Jakarta Barat,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,210000000,4280000
+AYLA X 1.0,Daihatsu,2018,28.113,Jakarta Utara,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,100000000,2040000
+AYLA R 1.2,Daihatsu,2020,54.801,Tangerang Selatan,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,136000000,2770000
+ALMAZ LT LUX 1.5,Wuling,2019,41.998,Jakarta Barat,Automatic,even plate,0,1,1,0,0,0,0,0,0,0,0,203000000,4139999
+TERIOS X 1.5,Daihatsu,2015,115.866,Jakarta Utara,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,148000000,3020000
+ALMAZ LT LUX + SC CVT 1.5,Wuling,2019,64.335,Bogor,Automatic,even plate,0,1,1,0,0,0,0,0,0,0,0,214000000,4360000
+AVANZA G 1.5,Toyota,2022,7.835,Malang,Manual,even plate,0,0,1,0,0,1,0,0,0,0,0,219000000,4460000
+BRIO SATYA E 1.2,Honda,2019,42.586,Bekasi,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,142000000,2890000
+CITY RS HATCHBACK 1.5,Honda,2021,18.936,Bekasi,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,261000000,5320000
+HR-V E 1.5,Honda,2015,122.09,Bogor,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,198000000,4030000
+AYLA X ELEGANT 1.0,Daihatsu,2017,34.014,Jakarta Utara,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,96000000,1960000
+KIJANG INNOVA G 2.0,Toyota,2022,25.226,Jakarta Utara,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,360000000,7330000
+AYLA R DLX 1.2,Daihatsu,2018,6.011,Bogor,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,116000000,2360000
+AVANZA E 1.3,Toyota,2017,70.052,Surabaya,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,135000000,2750000
+RUSH S TRD SPORTIVO 1.5,Toyota,2020,53.096,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,224000000,4560000
+MOBILIO E 1.5,Honda,2016,66.129,Bogor,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,136000000,2770000
+XENIA R STD 1.3,Daihatsu,2019,34.359,Surabaya,Manual,odd plate,0,0,1,0,0,0,0,0,0,0,0,160000000,3260000
+CORTEZ S T LUX 1.5,Wuling,2021,42.302,Tangerang Selatan,Automatic,even plate,1,0,0,0,0,0,0,1,0,0,0,180000000,3670000
+CORTEZ L T LUX 1.5,Wuling,2021,32.32,Jakarta Utara,Automatic,even plate,0,1,1,0,0,0,0,0,0,0,0,206000000,4200000
+ALMAZ LT LUX 1.5,Wuling,2019,55.346,Bogor,Automatic,odd plate,0,0,1,0,0,0,0,0,1,0,0,203000000,4139999
+HR-V E 1.5,Honda,2018,85.936,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,232000000,4730000
+FORTUNER VRZ 2.4,Toyota,2016,112.148,Bogor,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,365000000,7440000
+PAJERO SPORT DAKAR 4X2 2.4,Mitsubishi,2016,95.178,Jakarta Timur,Automatic,even plate,0,1,1,0,0,0,0,0,0,0,0,390000000,7950000
+CITY RS HATCHBACK 1.5,Honda,2021,25.16,Bogor,Manual,odd plate,0,0,1,0,0,0,0,0,0,0,1,246000000,5010000
+XPANDER ULTIMATE 1.5,Mitsubishi,2017,53.266,Bekasi,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,201000000,4099999
+XL7 ALPHA 1.5,Suzuki,2020,51.694,Jakarta Utara,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,210000000,4280000
+AYLA X 1.0,Daihatsu,2020,56.96,Jakarta Utara,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,100000000,2040000
+BRIO SATYA E 1.2,Honda,2019,48.434,Bekasi,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,156000000,3180000
+MOBILIO E 1.5,Honda,2019,52.561,Bandung,Automatic,even plate,1,0,0,0,0,0,0,1,0,0,0,172000000,3500000
+YARIS G 1.5,Toyota,2019,65.003,Jakarta Barat,Automatic,even plate,0,0,0,0,0,1,0,1,0,0,0,191000000,3890000
+RUSH S TRD SPORTIVO 1.5,Toyota,2019,74.934,Bekasi,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,212000000,4320000
+MOBILIO E 1.5,Honda,2016,82.35,Bogor,Automatic,even plate,1,0,0,0,0,0,0,1,0,0,0,145000000,2950000
+RUSH S 1.5,Toyota,2018,86.251,Bekasi,Manual,odd plate,0,0,1,0,0,1,0,0,0,0,0,201000000,4099999
+HR-V E 1.5,Honda,2018,41.32,Jakarta Utara,Automatic,even plate,0,0,1,1,0,0,0,0,0,0,0,232000000,4730000
+XENIA X 1.3,Daihatsu,2020,36.205,Bandung,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,163000000,3320000
+RUSH S GR SPORT 1.5,Toyota,2021,58.598,Jakarta Selatan,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,239000000,4870000
+CR-V 2.0,Honda,2017,104.079,Bogor,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,248000000,5050000
+BRIO SATYA E 1.2,Honda,2019,81.726,Bogor,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,154000000,3140000
+HR-V SE 1.5,Honda,2019,95.389,Bandung,Automatic,odd plate,0,0,1,1,0,0,0,0,0,0,0,266000000,5420000
+AYLA R 1.2,Daihatsu,2019,57.138,Jakarta Barat,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,115000000,2340000
+CR-V TURBO 1.5,Honda,2017,117.511,Tangerang Selatan,Automatic,even plate,0,0,1,0,1,0,0,0,0,0,0,336000000,6850000
+YARIS S TRD 1.5,Toyota,2019,30.898,Depok,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,218000000,4440000
+ROCKY R 1.0,Daihatsu,2021,21.304,Bogor,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,216000000,4400000
+ERTIGA GL 1.4,Suzuki,2016,132.27,Bekasi,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,129000000,2630000
+KIJANG INNOVA REBORN V 2.0,Toyota,2020,67.327,Bogor,Automatic,odd plate,0,0,1,0,0,0,0,1,0,0,0,336000000,6850000
+BRIO SATYA E 1.2,Honda,2018,55.24,Tangerang Selatan,Automatic,even plate,0,0,0,0,0,0,0,1,0,0,0,142000000,2890000
+AYLA R 1.2,Daihatsu,2019,17.916,Jakarta Timur,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,117000000,2380000
+RUSH S TRD SPORTIVO 1.5,Toyota,2020,69.785,Bogor,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,232000000,4730000
+YARIS S TRD 1.5,Toyota,2021,39.191,Bogor,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,240000000,4890000
+ALMAZ LT LUX CVT 1.5,Wuling,2021,9.775,Tangerang Selatan,Automatic,odd plate,0,1,0,0,0,0,0,0,0,0,0,241000000,4910000
+AYLA R DLX 1.2,Daihatsu,2019,33.635,Jakarta Timur,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,115000000,2340000
+AGYA G 1.0,Toyota,2016,76.931,Jakarta Timur,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,95000000,1940000
+AYLA X 1.0,Daihatsu,2017,93.445,Jakarta Pusat,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,93000000,1890000
+AYLA X 1.0,Daihatsu,2018,86.462,Bekasi,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,98000000,2000000
+CALYA G 1.2,Toyota,2019,40.358,Bandung,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,124000000,2530000
+RUSH S TRD SPORTIVO 1.5,Toyota,2018,47.81,Depok,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,207000000,4220000
+CORTEZ T LUX 1.5,Wuling,2019,72.65,Jakarta Timur,Automatic,odd plate,0,1,0,1,0,0,0,0,0,0,0,178000000,3630000
+XPANDER EXCEED 1.5,Mitsubishi,2019,34.947,Tangerang Selatan,Manual,even plate,1,0,1,0,0,0,0,0,0,0,0,198000000,4030000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,98.742,Jakarta Timur,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,211000000,4300000
+IGNIS GL 1.2,Suzuki,2019,26.233,Jakarta Timur,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,119000000,2420000
+AGYA G TRD 1.2,Toyota,2018,55.01,Tangerang Selatan,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,126000000,2570000
+BALENO HATCHBACK 1.4,Suzuki,2017,24.032,Jakarta Selatan,Manual,even plate,0,0,1,0,0,0,1,0,0,0,0,152000000,3100000
+AGYA G TRD 1.0,Toyota,2017,10.656,Bekasi,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,105000000,2140000
+AYLA R 1.2,Daihatsu,2018,78.944,Bogor,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,113000000,2300000
+ECLIPSE CROSS ULTIMATE 1.5,Mitsubishi,2020,42.516,Bogor,Automatic,even plate,0,1,1,0,0,0,0,0,0,0,0,355000000,7230000
+BRIO SATYA E 1.2,Honda,2020,64.684,Bekasi,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,159000000,3240000
+AGYA GR SPORT 1.2,Toyota,2022,22.803,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,154000000,3140000
+AYLA R 1.2,Daihatsu,2020,42.587,Bekasi,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,136000000,2770000
+RUSH S TRD 1.5,Toyota,2018,67.595,Jakarta Barat,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,211000000,4300000
+TERIOS R 1.5,Daihatsu,2018,28.869,Tangerang Selatan,Manual,even plate,0,0,1,0,0,1,0,0,0,0,0,194000000,3950000
+TERIOS X DLX 1.5,Daihatsu,2019,70.234,Jakarta Timur,Manual,odd plate,1,0,0,0,0,0,0,0,0,0,0,192000000,3910000
+HR-V E 1.5,Honda,2016,65.219,Jakarta Utara,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,210000000,4280000
+HR-V E 1.5,Honda,2016,74.516,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,211000000,4300000
+HR-V E PLUS 1.5,Honda,2018,71.135,Bogor,Automatic,even plate,0,0,0,1,0,0,0,0,0,0,1,255000000,5200000
+2 GT SKYACTIV 1.5,Mazda,2015,94.312,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,184000000,3750000
+RUSH S TRD SPORTIVO 1.5,Toyota,2019,66.029,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,219000000,4460000
+KIJANG INNOVA REBORN G 2.0,Toyota,2017,103.601,Malang,Automatic,odd plate,1,0,0,0,0,0,0,1,0,0,0,248000000,5050000
+AGYA G TRD 1.2,Toyota,2018,30.738,Bandung,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,120000000,2440000
+AGYA G TRD 1.2,Toyota,2018,45.824,Tangerang Selatan,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,121000000,2470000
+X-TRAIL 2.0,Nissan,2016,117.889,Tangerang Selatan,Automatic,even plate,0,0,0,0,0,0,0,0,1,0,0,190000000,3870000
+HR-V E 1.5,Honda,2018,54.437,Depok,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,236000000,4810000
+RUSH S TRD SPORTIVO 1.5,Toyota,2019,51.86,Depok,Manual,odd plate,1,0,1,0,0,0,0,0,0,0,0,213000000,4340000
+BRIO RS 1.2,Honda,2020,28.884,Tangerang Selatan,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,183000000,3730000
+BRIO RS 1.2,Honda,2018,21.701,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,151000000,3080000
+ERTIGA GX 1.4,Suzuki,2017,110.889,Bogor,Manual,even plate,0,0,1,0,0,0,0,0,0,0,0,149000000,3040000
+ROCKY R 1.0,Daihatsu,2021,22.709,Jakarta Timur,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,218000000,4440000
+RUSH S TRD SPORTIVO 1.5,Toyota,2018,51.41,Depok,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,213000000,4340000
+SIENTA Q 1.5,Toyota,2018,64.808,Jakarta Barat,Automatic,even plate,0,0,1,0,0,0,0,0,0,1,0,199000000,4050000
+CONFERO S L LUX 1.5,Wuling,2020,12.79,Bandung,Manual,odd plate,0,0,1,0,0,0,0,0,0,0,0,127000000,2590000
+SX4 S-CROSS 1.5,Suzuki,2017,96.199,Depok,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,169000000,3440000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,67.803,Depok,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,211000000,4300000
+ERTIGA SPORT GT 1.5,Suzuki,2019,78.472,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,196000000,3990000
+IGNIS GX 1.2,Suzuki,2017,103.106,Jakarta Pusat,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,129000000,2630000
+SIGRA R DLX 1.2,Daihatsu,2016,99.317,Bogor,Automatic,odd plate,1,0,0,0,0,0,0,0,0,0,0,111000000,2260000
+SIGRA D 1.0,Daihatsu,2019,29.119,Surabaya,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,102000000,2080000
+2 R SKYACTIV 1.5,Mazda,2016,83.081,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,174000000,3550000
+TERIOS X DLX 1.5,Daihatsu,2018,41.027,Tangerang Selatan,Manual,odd plate,1,0,0,0,0,0,0,0,0,0,0,185000000,3770000
+HR-V E PLUS 1.5,Honda,2018,73.712,Bekasi,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,256000000,5220000
+HR-V E PLUS 1.5,Honda,2018,27.308,Jakarta Barat,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,258000000,5260000
+XPANDER SPORT 1.5,Mitsubishi,2019,70.969,Jakarta Selatan,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,210000000,4280000
+BR-V E 1.5,Honda,2016,119.436,Jakarta Utara,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,164000000,3340000
+CITY E 1.5,Honda,2017,61.556,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,205000000,4179999
+KIJANG INNOVA REBORN G 2.0,Toyota,2018,74.52,Bogor,Automatic,even plate,1,0,0,0,0,0,0,1,0,0,0,261000000,5320000
+AYLA R 1.2,Daihatsu,2018,81.739,Bandung,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,120000000,2440000
+BRIO RS 1.2,Honda,2018,83.538,Bandung,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,151000000,3080000
+BRIO SATYA E 1.2,Honda,2020,52.723,Bandung,Automatic,even plate,0,0,0,0,0,0,0,1,0,0,0,162000000,3300000
+HR-V E PLUS 1.5,Honda,2018,94.946,Jakarta Timur,Automatic,even plate,0,0,1,1,0,0,0,0,0,0,0,258000000,5260000
+CITY RS HATCHBACK 1.5,Honda,2021,22.67,Bekasi,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,262000000,5340000
+HR-V E 1.5,Honda,2019,68.99,Bandung,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,261000000,5320000
+2 R SKYACTIV 1.5,Mazda,2015,126.721,Bekasi,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,162000000,3300000
+2 R SKYACTIV 1.5,Mazda,2015,117.682,Jakarta Timur,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,166000000,3380000
+AGYA G 1.2,Toyota,2022,9.881,Jakarta Selatan,Manual,odd plate,0,0,1,0,0,0,0,0,0,0,0,136000000,2770000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,61.532,Jakarta Barat,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,212000000,4320000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,47.18,Tangerang Selatan,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,213000000,4340000
+LIVINA VL 1.5,Nissan,2019,83.691,Jakarta Pusat,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,199000000,4050000
+RUSH S TRD SPORTIVO 1.5,Toyota,2019,76.928,Bogor,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,221000000,4500000
+RUSH S TRD SPORTIVO 1.5,Toyota,2019,57.056,Jakarta Utara,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,219000000,4460000
+TERIOS R DLX 1.5,Daihatsu,2019,72.957,Malang,Automatic,even plate,0,0,1,0,0,0,0,0,1,0,0,203000000,4139999
+XENIA R DLX 1.3,Daihatsu,2013,140.903,Bogor,Automatic,even plate,1,0,0,0,0,0,0,0,0,0,0,106000000,2160000
+BR-V E PRESTIGE 1.5,Honda,2018,85.65,Bekasi,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,182000000,3710000
+KIJANG INNOVA G LUX 2.0,Toyota,2010,169.237,Bandung,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,129000000,2630000
+GRAND LIVINA XV 1.5,Nissan,2014,142.175,Bandung,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,100000000,2040000
+SIGRA R DLX 1.2,Daihatsu,2017,122.574,Bandung,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,98000000,2000000
+HR-V E 1.5,Honda,2018,92.961,Bogor,Automatic,odd plate,0,0,1,1,0,0,0,0,0,0,0,224000000,4560000
+MOBILIO RS 1.5,Honda,2015,73.033,Bekasi,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,139000000,2830000
+CALYA G 1.2,Toyota,2016,59.581,Bekasi,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,101000000,2060000
+AYLA R DLX 1.2,Daihatsu,2019,80.201,Bandung,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,118000000,2400000
+SIGRA R STD 1.2,Daihatsu,2018,140.428,Bandung,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,101000000,2060000
+RUSH G 1.5,Toyota,2017,89.405,Bandung,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,161000000,3280000
+ERTIGA GL 1.4,Suzuki,2013,77.093,Bandung,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,111000000,2260000
+GO+ PANCA T 1.2,Datsun,2017,46.497,Bogor,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,77000000,1570000
+CALYA G 1.2,Toyota,2018,169.351,Bandung,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,112000000,2280000
+ROCKY R 1.0,Daihatsu,2021,24.619,Tangerang Selatan,Manual,odd plate,0,0,1,0,0,1,0,0,0,0,0,189000000,3850000
+XENIA X STD 1.3,Daihatsu,2012,44.746,Jakarta Selatan,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,102000000,2080000
+RAIZE TURBO G 1.0,Toyota,2022,19.489,Bandung,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,216000000,4400000
+KIJANG INNOVA Q 2.0,Toyota,2018,53.528,Bogor,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,314000000,6400000
+ERTIGA GX 1.4,Suzuki,2018,79.198,Bogor,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,157000000,3200000
+AVANZA VELOZ 1.3,Toyota,2016,172.865,Tangerang Selatan,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,139000000,2830000
+MOBILIO E 1.5,Honda,2017,59.147,Bekasi,Automatic,odd plate,1,0,0,0,0,0,0,1,0,0,0,157000000,3200000
+XPANDER SPORT 1.5,Mitsubishi,2018,58.752,Bekasi,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,201000000,4099999
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,93.142,Jakarta Timur,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,209000000,4260000
+CX-3 GT 2.0,Mazda,2019,32.13,Jakarta Barat,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,323000000,6580000
+BRIO E 1.2,Honda,2016,48.751,Jakarta Pusat,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,131000000,2670000
+PAJERO SPORT DAKAR ULTIMATE 4X2 2.4,Mitsubishi,2018,73.296,Jakarta Timur,Automatic,even plate,1,0,0,0,0,0,1,0,0,0,0,428000000,8720000
+KIJANG INNOVA REBORN V 2.0,Toyota,2017,34.96,Bogor,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,278000000,5660000
+ERTIGA SPORT GT 1.5,Suzuki,2019,18.426,Depok,Manual,odd plate,0,0,1,0,0,0,0,0,0,0,0,186000000,3790000
+AGYA G TRD SPORTIVO 1.2,Toyota,2021,36.037,Bandung,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,145000000,2950000
+XL7 ALPHA 1.5,Suzuki,2021,26.534,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,221000000,4500000
+BALENO HATCHBACK 1.4,Suzuki,2018,79.665,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,165000000,3360000
+CITY RS HATCHBACK 1.5,Honda,2021,46.694,Jakarta Barat,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,262000000,5340000
+KIJANG INNOVA REBORN G 2.0,Toyota,2018,80.809,Bekasi,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,255000000,5200000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,82.596,Jakarta Utara,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,213000000,4340000
+ALMAZ S+T SMART ENJOY 1.5,Wuling,2021,39.239,Tangerang Selatan,Automatic,odd plate,0,0,1,1,0,0,0,0,0,0,0,220000000,4480000
+IGNIS GX AGS 1.2,Suzuki,2018,125.114,Jakarta Pusat,Automatic,even plate,1,0,0,0,0,0,1,0,0,0,0,125000000,2550000
+CRETA PRIME 1.5,Hyundai,2022,28.896,Bandung,Automatic,even plate,0,1,0,0,0,0,1,0,0,0,0,319000000,6500000
+XPANDER EXCEED 1.5,Mitsubishi,2018,51.387,Bogor,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,194000000,3950000
+RAIZE GR SPORT 1.0,Toyota,2021,18.599,Jakarta Timur,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,224000000,4560000
+KIJANG INNOVA V 2.0,Toyota,2016,104.055,Tangerang Selatan,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,255000000,5200000
+ERTIGA GX 1.4,Suzuki,2017,28.466,Bogor,Manual,even plate,0,0,1,0,0,0,0,0,0,0,0,154000000,3140000
+ERTIGA DREZA 1.4,Suzuki,2017,77.648,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,155000000,3160000
+BALENO HATCHBACK 1.4,Suzuki,2019,44.979,Jakarta Barat,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,181000000,3690000
+BRIO RS 1.2,Honda,2017,61.782,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,0,1,0,0,0,143000000,2910000
+BRIO SATYA E 1.2,Honda,2019,46.912,Jakarta Selatan,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,156000000,3180000
+BR-V E 1.5,Honda,2017,109.995,Bogor,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,169000000,3440000
+SX4 S-CROSS 1.5,Suzuki,2016,91.268,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,158000000,3220000
+MOBILIO RS 1.5,Honda,2014,120.026,Tangerang Selatan,Automatic,even plate,1,0,0,0,0,0,0,1,0,0,0,146000000,2970000
+SANTA FE CRDI 2.2,Hyundai,2018,52.497,Bekasi,Automatic,odd plate,0,1,0,1,0,0,0,0,0,0,0,417000000,8500000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,51.925,Bogor,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,212000000,4320000
+X-TRAIL 2.5,Nissan,2015,92.536,Jakarta Timur,Automatic,odd plate,0,0,0,0,1,0,0,0,1,0,0,199000000,4050000
+BRIO SATYA E 1.2,Honda,2017,24.658,Jakarta Barat,Automatic,even plate,0,0,0,0,0,0,0,1,0,0,0,137000000,2790000
+BRIO SATYA E 1.2,Honda,2019,55.43,Jakarta Timur,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,156000000,3180000
+BRIO SATYA E 1.2,Honda,2014,40.516,Jakarta Barat,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,106000000,2160000
+CX-5 GT 2.5,Mazda,2019,16.763,Jakarta Barat,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,424000000,8640000
+AGYA G 1.0,Toyota,2015,48.952,Bandung,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,110000000,2240000
+MOBILIO RS 1.5,Honda,2020,70.213,Jakarta Utara,Automatic,odd plate,0,0,1,0,0,0,0,1,0,0,0,193000000,3930000
+BRIO SATYA E 1.2,Honda,2020,22.059,Bekasi,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,162000000,3300000
+XL7 BETA 1.5,Suzuki,2021,42.044,Jakarta Utara,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,209000000,4260000
+XPANDER ULTIMATE 1.5,Mitsubishi,2017,68.413,Bekasi,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,203000000,4139999
+ERTIGA SPORT GT 1.5,Suzuki,2019,25.127,Jakarta Selatan,Manual,odd plate,0,0,1,0,0,0,1,0,0,0,0,187000000,3810000
+BRIO RS 1.2,Honda,2020,55.434,Bogor,Automatic,odd plate,0,0,1,0,0,0,0,1,0,0,0,181000000,3690000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,50.764,Depok,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,212000000,4320000
+CALYA G 1.2,Toyota,2019,90.659,Tangerang Selatan,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,132000000,2690000
+KIJANG INNOVA V 2.0,Toyota,2013,158.669,Jakarta Barat,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,178000000,3630000
+CORTEZ S T LUX 1.5,Wuling,2021,26.527,Bandung,Automatic,odd plate,1,0,0,0,0,0,1,0,0,0,0,179000000,3650000
+BRIO SATYA E 1.2,Honda,2020,22.928,Jakarta Utara,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,163000000,3320000
+CX-5 ELITE 2.5,Mazda,2017,44.889,Jakarta Timur,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,373000000,7600000
+SIENTA Q 1.5,Toyota,2017,112.207,Jakarta Barat,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,186000000,3790000
+BRIO SATYA E 1.2,Honda,2018,35.961,Jakarta Utara,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,149000000,3040000
+KIJANG INNOVA VENTURER 2.0,Toyota,2018,97.032,Bekasi,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,324000000,6600000
+CONFERO S L 1.5,Wuling,2019,67.69,Tangerang Selatan,Manual,even plate,1,0,1,0,0,0,0,0,0,0,0,119000000,2420000
+XPANDER EXCEED 1.5,Mitsubishi,2018,81.128,Tangerang Selatan,Manual,odd plate,1,0,1,0,0,0,0,0,0,0,0,191000000,3890000
+KIJANG INNOVA REBORN VENTURER GASOLINE 2.0,Toyota,2017,79.013,Depok,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,317000000,6460000
+YARIS S TRD 1.5,Toyota,2020,61.487,Bekasi,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,228000000,4650000
+BRIO SATYA E 1.2,Honda,2016,97.128,Jakarta Utara,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,127000000,2590000
+XPANDER SPORT 1.5,Mitsubishi,2018,80.941,Jakarta Barat,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,198000000,4030000
+ERTIGA GX 1.5,Suzuki,2019,78.531,Bogor,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,183000000,3730000
+KIJANG INNOVA REBORN G 2.0,Toyota,2017,89.457,Jakarta Timur,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,251000000,5110000
+SIENTA V 1.5,Toyota,2017,111.609,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,174000000,3550000
+BRIO RS 1.2,Honda,2020,50.261,Bogor,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,185000000,3770000
+BRIO SATYA E 1.2,Honda,2020,43.337,Jakarta Pusat,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,162000000,3300000
+BR-V PRESTIGE 1.5,Honda,2019,41.412,Jakarta Selatan,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,210000000,4280000
+CITY RS HATCHBACK 1.5,Honda,2021,30.492,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,270000000,5500000
+HR-V E PLUS 1.5,Honda,2020,42.85,Jakarta Barat,Automatic,odd plate,0,0,1,1,0,0,0,0,0,0,0,282000000,5750000
+IGNIS GX 1.2,Suzuki,2017,88.669,Bogor,Manual,even plate,0,0,1,0,0,0,1,0,0,0,0,120000000,2440000
+X-TRAIL 2.5,Nissan,2016,110.956,Bogor,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,210000000,4280000
+ERTIGA DREZA GS 1.4,Suzuki,2016,95.539,Bogor,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,158000000,3220000
+BIANTE SKYACTIV 2.0,Mazda,2017,48.097,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,1,0,223000000,4540000
+GRAND LIVINA SV 1.5,Nissan,2015,104.054,Bogor,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,116000000,2360000
+CX-3 TOURING 2.0,Mazda,2018,73.975,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,278000000,5660000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,60.96,Bogor,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,1,214000000,4360000
+MARCH 1.2,Nissan,2017,57.201,Bandung,Automatic,even plate,1,0,0,0,0,0,0,0,0,0,0,121000000,2470000
+XENIA R 1.3,Daihatsu,2017,109.214,Jakarta Utara,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,138000000,2810000
+XPANDER SPORT 1.5,Mitsubishi,2017,58.277,Bekasi,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,197000000,4010000
+ERTIGA GX 1.5,Suzuki,2020,35.385,Bekasi,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,197000000,4010000
+XENIA R SPORTY 1.3,Daihatsu,2018,70.926,Tangerang Selatan,Automatic,odd plate,1,0,0,0,1,0,0,0,0,0,0,156000000,3180000
+AVANZA G 1.3,Toyota,2019,78.434,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,179000000,3650000
+BRIO SATYA E 1.2,Honda,2019,79.325,Tangerang Selatan,Automatic,even plate,0,0,0,0,0,0,0,1,0,0,0,156000000,3180000
+CONFERO S 1.5,Wuling,2018,91.501,Jakarta Timur,Manual,even plate,1,0,0,0,0,0,0,0,0,0,0,105000000,2140000
+SIENTA G 1.5,Toyota,2019,35.48,Tangerang Selatan,Automatic,even plate,0,0,0,0,0,0,0,1,0,1,0,187000000,3810000
+BRIO SATYA E 1.2,Honda,2018,81.964,Jakarta Timur,Automatic,even plate,0,0,0,0,0,0,0,1,0,0,0,141000000,2870000
+BRIO SATYA E 1.2,Honda,2019,34.001,Bogor,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,158000000,3220000
+BR-V E 1.5,Honda,2019,21.707,Jakarta Timur,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,203000000,4139999
+MOBILIO E PRESTIGE 1.5,Honda,2014,96.773,Tangerang Selatan,Automatic,even plate,1,0,0,0,0,0,0,1,0,0,0,138000000,2810000
+SIENTA G 1.5,Toyota,2018,94.182,Depok,Automatic,even plate,1,0,0,0,0,0,0,0,0,1,0,168000000,3420000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,98.215,Jakarta Timur,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,1,212000000,4320000
+AYLA R 1.2,Daihatsu,2018,74.372,Bogor,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,124000000,2530000
+MARCH 1.5,Nissan,2014,74.562,Bogor,Automatic,even plate,0,0,0,0,0,1,1,0,0,0,0,126000000,2570000
+RUSH S TRD SPORTIVO 1.5,Toyota,2018,30.977,Jakarta Timur,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,212000000,4320000
+MARCH 1.2,Nissan,2017,19.223,Bogor,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,124000000,2530000
+FORTUNER VRZ GR SPORT 2.8,Toyota,2022,15.713,Jakarta Timur,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,542000000,11040000
+KIJANG INNOVA REBORN V 2.0,Toyota,2019,65.076,Jakarta Pusat,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,315000000,6420000
+XPANDER EXCEED 1.5,Mitsubishi,2019,56.425,Bekasi,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,205000000,4179999
+AVANZA G 1.3,Toyota,2019,58.385,Bekasi,Manual,even plate,0,0,1,0,0,0,0,0,0,0,0,177000000,3610000
+KIJANG INNOVA G 2.0,Toyota,2021,32.582,Depok,Automatic,odd plate,1,0,0,0,0,0,0,1,0,0,0,319000000,6500000
+MOBILIO E 1.5,Honda,2014,91.739,Jakarta Barat,Automatic,even plate,0,0,0,0,0,0,0,1,0,0,0,132000000,2690000
+S-PRESSO 1.0,Suzuki,2023,245.0,Bogor,Automatic,odd plate,0,0,0,0,0,1,0,0,0,0,0,145000000,2950000
+KIJANG INNOVA G 2.0,Toyota,2014,139.609,Jakarta Timur,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,180000000,3670000
+IGNIS GX 1.2,Suzuki,2017,113.568,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,129000000,2630000
+XPANDER ULTIMATE 1.5,Mitsubishi,2019,71.11,Jakarta Utara,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,1,222000000,4520000
+TERIOS X DLX 1.5,Daihatsu,2020,38.952,Jakarta Timur,Automatic,odd plate,1,0,0,0,0,0,0,0,0,0,0,204000000,4160000
+AGYA G TRD 1.2,Toyota,2019,34.243,Bogor,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,135000000,2750000
+BRIO SATYA E 1.2,Honda,2018,40.661,Jakarta Utara,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,146000000,2970000
+XPANDER SPORT 1.5,Mitsubishi,2018,89.474,Bekasi,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,203000000,4139999
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,85.438,Bekasi,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,214000000,4360000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,65.729,Jakarta Selatan,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,215000000,4380000
+XPANDER ULTIMATE 1.5,Mitsubishi,2019,66.213,Bogor,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,1,224000000,4560000
+XPANDER ULTIMATE 1.5,Mitsubishi,2019,76.021,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,1,223000000,4540000
+KIJANG INNOVA Q 2.0,Toyota,2016,91.5,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,285000000,5810000
+BALENO HATCHBACK 1.4,Suzuki,2017,91.044,Bekasi,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,161000000,3280000
+KIJANG INNOVA REBORN V 2.0,Toyota,2017,97.991,Tangerang Selatan,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,277000000,5640000
+BRIO RS 1.2,Honda,2019,77.208,Bogor,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,180000000,3670000
+SIENTA V 1.5,Toyota,2019,43.52,Bekasi,Automatic,odd plate,0,0,1,0,0,0,0,0,0,1,0,198000000,4030000
+XPANDER EXCEED 1.5,Mitsubishi,2019,64.707,Jakarta Pusat,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,206000000,4200000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,98.408,Bogor,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,211000000,4300000
+AGYA G TRD 1.2,Toyota,2018,44.496,Jakarta Pusat,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,132000000,2690000
+SERENA HIGHWAY STAR 2.0,Nissan,2019,31.62,Jakarta Timur,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,326000000,6640000
+RUSH S TRD SPORTIVO 1.5,Toyota,2018,77.776,Bogor,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,213000000,4340000
+XENIA R DLX 1.3,Daihatsu,2014,48.788,Jakarta Timur,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,124000000,2530000
+MARCH 1.2,Nissan,2013,135.982,Tangerang Selatan,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,96000000,1960000
+MOBILIO E 1.5,Honda,2015,112.025,Jakarta Barat,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,141000000,2870000
+FORTUNER VRZ 4X2 2.4,Toyota,2017,95.495,Tangerang Selatan,Automatic,even plate,1,0,0,0,0,0,0,1,0,0,0,380000000,7740000
+BRIO RS 1.2,Honda,2019,64.136,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,0,1,0,0,0,180000000,3670000
+BRIO RS 1.2,Honda,2020,11.32,Bogor,Automatic,even plate,1,0,0,0,0,0,0,0,0,0,0,188000000,3830000
+YARIS S TRD 1.5,Toyota,2018,32.892,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,211000000,4300000
+TERIOS ADVENTURE R 1.5,Daihatsu,2015,110.66,Bogor,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,154000000,3140000
+AVANZA VELOZ 1.3,Toyota,2018,62.536,Tangerang Selatan,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,170000000,3460000
+RUSH S TRD SPORTIVO 1.5,Toyota,2018,66.337,Bogor,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,213000000,4340000
+BRIO SATYA E 1.2,Honda,2020,28.648,Jakarta Utara,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,166000000,3380000
+PAJERO SPORT DAKAR 4X2 2.4,Mitsubishi,2018,60.88,Jakarta Utara,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,429000000,8740000
+KIJANG INNOVA Q 2.0,Toyota,2018,64.583,Bekasi,Automatic,odd plate,1,0,0,0,0,0,0,1,0,0,0,317000000,6460000
+TERIOS R DLX 1.5,Daihatsu,2020,68.981,Jakarta Timur,Automatic,odd plate,0,0,1,0,0,0,0,0,1,0,0,217000000,4420000
+BRIO RS 1.2,Honda,2018,41.984,Bogor,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,152000000,3100000
+SPARK PREMIER 1.4,Chevrolet,2019,16.685,Bekasi,Automatic,even plate,0,0,0,0,0,1,0,0,0,0,0,139000000,2830000
+LIVINA VL 1.5,Nissan,2019,30.482,Bekasi,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,201000000,4099999
+CARRY PICK UP 1.5,Suzuki,2021,1.699,Depok,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,102000000,2080000
+BRIO SATYA E 1.2,Honda,2018,69.603,Bekasi,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,155000000,3160000
+BRIO SATYA E 1.2,Honda,2018,43.996,Jakarta Selatan,Automatic,odd plate,1,0,0,0,0,0,0,1,0,0,0,144000000,2930000
+XPANDER ULTIMATE 1.5,Mitsubishi,2017,41.79,Depok,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,211000000,4300000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,84.753,Bekasi,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,213000000,4340000
+AGYA G TRD SPORTIVO 1.2,Toyota,2021,40.04,Depok,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,148000000,3020000
+AVANZA G 1.3,Toyota,2017,88.066,Bogor,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,152000000,3100000
+AVANZA E 1.3,Toyota,2020,52.8,Jakarta Barat,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,172000000,3500000
+KIJANG INNOVA G 2.0,Toyota,2016,119.413,Bekasi,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,242000000,4930000
+FORTUNER VRZ 4X2 2.4,Toyota,2017,51.475,Jakarta Barat,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,390000000,7950000
+KIJANG INNOVA REBORN G 2.0,Toyota,2017,46.01,Jakarta Selatan,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,261000000,5320000
+BRIO SATYA E 1.2,Honda,2016,15.393,Bogor,Automatic,even plate,0,0,0,0,0,0,0,1,0,0,0,131000000,2670000
+BRIO E 1.2,Honda,2014,30.466,Tangerang Selatan,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,121000000,2470000
+BRIO SATYA E 1.2,Honda,2020,11.054,Bandung,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,164000000,3340000
+CX-5 HIGH 2.5,Mazda,2014,81.916,Jakarta Utara,Automatic,even plate,1,1,0,0,0,0,0,0,0,0,0,200000000,4080000
+ERTIGA SPORT GT 1.5,Suzuki,2019,56.76,Bekasi,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,201000000,4099999
+BRIO SATYA E 1.2,Honda,2022,3.574,Bogor,Automatic,even plate,0,0,0,0,0,0,0,1,0,0,0,172000000,3500000
+RAIZE GR 1.0,Toyota,2021,19.809,Depok,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,223000000,4540000
+IGNIS GL 1.2,Suzuki,2018,60.258,Depok,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,130000000,2650000
+2 R SKYACTIV 1.5,Mazda,2016,72.706,Bekasi,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,190000000,3870000
+KIJANG INNOVA G 2.0,Toyota,2018,71.225,Bogor,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,263000000,5360000
+BR-V PRESTIGE 1.5,Honda,2019,67.177,Bandung,Automatic,odd plate,0,0,1,0,0,0,0,1,0,0,0,213000000,4340000
+BRIO SATYA E 1.2,Honda,2019,18.602,Depok,Automatic,odd plate,1,0,0,0,0,0,0,0,0,0,0,160000000,3260000
+SIGRA R STD 1.2,Daihatsu,2020,11.448,Bogor,Manual,even plate,0,0,1,0,0,0,0,0,0,0,0,129000000,2630000
+BRIO SATYA E 1.2,Honda,2019,56.645,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,159000000,3240000
+ECOSPORT TITANIUM 1.5,Ford,2014,123.661,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,121000000,2470000
+XPANDER ULTIMATE 1.5,Mitsubishi,2017,87.66,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,209000000,4260000
+GRAND LIVINA HIGHWAY STAR 1.5,Nissan,2015,63.625,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,132000000,2690000
+SERENA HIGHWAY STAR 2.0,Nissan,2016,108.956,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,224000000,4560000
+ROCKY X 1.2,Daihatsu,2022,19.031,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,200000000,4080000
+SIRION 1.3,Daihatsu,2021,13.371,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,177000000,3610000
+TERIOS R 1.5,Daihatsu,2019,66.848,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,209000000,4260000
+GO PANCA T LIVE 1.2,Datsun,2019,40.119,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,105000000,2140000
+MOBILIO E PRESTIGE 1.5,Honda,2015,88.166,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,144000000,2930000
+BRIO RS 1.2,Honda,2016,65.321,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,141000000,2870000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,109.127,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,209000000,4260000
+XPANDER CROSS 1.5,Mitsubishi,2019,40.631,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,235000000,4790000
+GRAND LIVINA HIGHWAY STAR AUTECH 1.5,Nissan,2014,107.143,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,137000000,2790000
+GRAND LIVINA X-GEAR 1.5,Nissan,2016,116.892,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,135000000,2750000
+GRAND LIVINA HIGHWAY STAR AUTECH 1.5,Nissan,2017,117.692,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,148000000,3020000
+GRAND LIVINA HIGHWAY STAR AUTECH 1.5,Nissan,2017,72.181,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,156000000,3180000
+CARRY PICK UP 1.5,Suzuki,2020,12.639,Unkown,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,109000000,2220000
+CX-5 GT 2.5,Mazda,2015,133.948,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,258000000,5260000
+PAJERO SPORT DAKAR ULTIMATE 4X2 2.4,Mitsubishi,2019,43.295,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,443000000,9030000
+ERTIGA GL 1.4,Suzuki,2017,56.5,Unkown,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,141000000,2870000
+BRIO SATYA E 1.2,Honda,2019,38.479,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,161000000,3280000
+BRIO SATYA E 1.2,Honda,2019,44.459,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,160000000,3260000
+BRIO SATYA E 1.2,Honda,2019,68.667,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,159000000,3240000
+BRIO RS 1.2,Honda,2020,39.029,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,185000000,3770000
+BR-V E 1.5,Honda,2017,102.45,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,175000000,3570000
+XPANDER EXCEED 1.5,Mitsubishi,2018,39.319,Unkown,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,197000000,4010000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,44.905,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,212000000,4320000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,46.354,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,212000000,4320000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,57.312,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,212000000,4320000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,47.16,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,212000000,4320000
+AVANZA G 1.3,Toyota,2014,99.455,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,122000000,2490000
+AVANZA G 1.3,Toyota,2018,48.183,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,161000000,3280000
+AVANZA G 1.3,Toyota,2019,58.62,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,181000000,3690000
+AVANZA G 1.3,Toyota,2019,38.337,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,182000000,3710000
+KIJANG INNOVA V 2.0,Toyota,2016,104.396,Unkown,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,256000000,5220000
+CALYA G 1.2,Toyota,2018,87.82,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,124000000,2530000
+KIJANG INNOVA G 2.0,Toyota,2013,135.311,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,171000000,3480000
+KIJANG INNOVA REBORN G 2.4,Toyota,2019,28.368,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,339000000,6910000
+RAIZE TURBO G 1.0,Toyota,2021,38.998,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,210000000,4280000
+RUSH S TRD SPORTIVO 1.5,Toyota,2018,78.657,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,212000000,4320000
+SIENTA V 1.5,Toyota,2016,84.583,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,174000000,3550000
+SIENTA V 1.5,Toyota,2018,104.099,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,186000000,3790000
+YARIS S TRD 1.5,Toyota,2019,58.435,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,221000000,4500000
+XPANDER SPORT 1.5,Mitsubishi,2017,41.42,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,199000000,4050000
+CONFERO S 1.5,Wuling,2019,50.614,Unkown,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,109000000,2220000
+CALYA E 1.2,Toyota,2019,77.701,Unkown,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,120000000,2440000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,60.933,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,210000000,4280000
+ERTIGA GX 1.5,Suzuki,2019,58.082,Unkown,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,178000000,3630000
+KIJANG INNOVA REBORN G 2.0,Toyota,2019,86.381,Unkown,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,281000000,5730000
+GO+ PANCA T 1.2,Datsun,2016,24.909,Unkown,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,78000000,1590000
+2 GT 1.5,Mazda,2016,82.938,Unkown,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,187000000,3810000
+JAZZ RS 1.5,Honda,2017,83.487,Tangerang Selatan,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,1,210000000,4280000
+LIVINA VL 1.5,Nissan,2019,71.142,Jakarta Timur,Automatic,even plate,1,0,0,0,0,0,1,0,0,0,0,179000000,3650000
+YARIS S TRD 1.5,Toyota,2018,78.114,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,202000000,4120000
+BRIO SATYA E 1.2,Honda,2020,51.347,Bogor,Automatic,even plate,0,0,0,0,0,0,0,1,0,0,0,151000000,3080000
+HR-V E 1.5,Honda,2016,93.048,Jakarta Selatan,Automatic,odd plate,0,0,0,1,0,0,0,0,0,0,0,195000000,3970000
+TERIOS R 1.5,Daihatsu,2018,93.935,Jakarta Pusat,Automatic,odd plate,0,0,0,0,0,1,1,0,0,0,0,187000000,3810000
+AVANZA G 1.3,Toyota,2021,40.655,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,174000000,3550000
+KIJANG INNOVA REBORN G 2.0,Toyota,2017,63.309,Jakarta Pusat,Manual,even plate,0,0,0,0,0,0,0,1,0,0,0,236000000,4810000
+LIVINA VL 1.5,Nissan,2019,51.618,Jakarta Timur,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,206000000,4200000
+BRIO RS 1.2,Honda,2018,80.163,Tangerang Selatan,Manual,even plate,0,0,1,0,0,0,0,0,0,0,0,134000000,2730000
+MOBILIO RS 1.5,Honda,2018,36.06,Jakarta Utara,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,173000000,3520000
+RUSH S TRD SPORTIVO 1.5,Toyota,2018,60.929,Jakarta Timur,Manual,even plate,0,0,1,0,0,0,1,0,0,0,0,198000000,4030000
+HR-V SE 1.5,Honda,2019,59.647,Jakarta Timur,Automatic,odd plate,0,0,1,1,0,0,0,0,0,0,0,258000000,5260000
+TERIOS R 1.5,Daihatsu,2019,53.125,Bekasi,Manual,odd plate,1,0,1,0,0,0,0,0,0,0,0,195000000,3970000
+BRIO SATYA E 1.2,Honda,2018,71.172,Jakarta Utara,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,136000000,2770000
+ERTIGA GX 1.4,Suzuki,2014,121.801,Surabaya,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,129000000,2630000
+MOBILIO E 1.5,Honda,2016,82.137,Bekasi,Automatic,odd plate,1,0,0,0,0,0,0,1,0,0,0,144000000,2930000
+AGYA G TRD 1.2,Toyota,2019,98.857,Bekasi,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,128000000,2610000
+CARRY PICK UP 1.5,Suzuki,2019,17.67,Bandung,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,92000000,1870000
+RUSH S 1.5,Toyota,2014,74.334,Jakarta Utara,Manual,odd plate,0,0,1,0,0,0,0,0,0,0,0,150000000,3060000
+AYLA R 1.2,Daihatsu,2019,32.662,Tangerang Selatan,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,116000000,2360000
+AGYA G TRD 1.2,Toyota,2019,16.097,Jakarta Utara,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,122000000,2490000
+CALYA G 1.2,Toyota,2021,18.15,Bandung,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,142000000,2890000
+HR-V E 1.5,Honda,2021,38.935,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,1,282000000,5750000
+KIJANG INNOVA V 2.0,Toyota,2021,10.962,Bogor,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,370000000,7540000
+FORTUNER G TRD 2.5,Toyota,2014,89.433,Jakarta Pusat,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,282000000,5750000
+HR-V S 1.5,Honda,2017,70.953,Jakarta Timur,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,197000000,4010000
+CALYA G 1.2,Toyota,2019,71.766,Jakarta Utara,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,126000000,2570000
+SX4 S-CROSS 1.5,Suzuki,2019,35.009,Jakarta Barat,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,192000000,3910000
+KARIMUN GS 1.0,Suzuki,2017,93.534,Jakarta Barat,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,92000000,1870000
+ERTIGA GX 1.4,Suzuki,2018,85.331,Malang,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,160000000,3260000
+CALYA G 1.2,Toyota,2016,84.104,Tangerang Selatan,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,108000000,2200000
+TERIOS TX 1.5,Daihatsu,2014,101.93,Jakarta Timur,Manual,even plate,1,0,1,0,0,0,0,0,0,0,0,141000000,2870000
+SIGRA X 1.2,Daihatsu,2020,38.327,Jakarta Selatan,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,131000000,2670000
+ALMAZ LT LUX 1.5,Wuling,2019,53.501,Jakarta Barat,Automatic,odd plate,0,0,1,0,0,0,0,0,1,0,0,203000000,4139999
+XENIA R 1.3,Daihatsu,2014,94.869,Bogor,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,116000000,2360000
+AYLA R 1.2,Daihatsu,2018,60.702,Depok,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,111000000,2260000
+CITY RS HATCHBACK 1.5,Honda,2021,41.113,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,262000000,5340000
+BR-V E 1.5,Honda,2019,74.754,Bogor,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,194000000,3950000
+CALYA G 1.2,Toyota,2017,67.611,Bogor,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,113000000,2300000
+ERTIGA SPORT GT 1.5,Suzuki,2019,96.327,Jakarta Utara,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,192000000,3910000
+IGNIS GL 1.2,Suzuki,2018,30.115,Bogor,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,126000000,2570000
+CALYA G 1.2,Toyota,2016,74.535,Tangerang Selatan,Manual,even plate,1,0,0,0,0,0,0,0,0,0,0,106000000,2160000
+2 GT SKYACTIV 1.5,Mazda,2018,45.975,Depok,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,1,209000000,4260000
+AVANZA VELOZ 1.5,Toyota,2020,28.514,Bandung,Manual,odd plate,0,0,1,0,0,0,1,0,0,0,0,197000000,4010000
+AVANZA VELOZ 1.5,Toyota,2021,61.458,Depok,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,222000000,4520000
+BRIO SATYA E 1.2,Honda,2021,49.424,Jakarta Barat,Automatic,even plate,0,0,0,0,0,0,0,1,0,0,0,164000000,3340000
+IGNIS GX 1.2,Suzuki,2019,64.346,Jakarta Pusat,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,141000000,2870000
+HR-V E 1.5,Honda,2017,61.785,Jakarta Utara,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,219000000,4460000
+MOBILIO S 1.5,Honda,2020,50.241,Bogor,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,164000000,3340000
+CALYA G 1.2,Toyota,2019,54.702,Jakarta Utara,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,122000000,2490000
+YARIS S TRD 1.5,Toyota,2018,68.648,Jakarta Selatan,Manual,even plate,0,0,1,0,0,1,0,0,0,0,0,183000000,3730000
+XPANDER ULTIMATE 1.5,Mitsubishi,2017,59.729,Jakarta Barat,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,207000000,4220000
+CIVIC FB2 1.8,Honda,2015,57.589,Bogor,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,199000000,4050000
+RAIZE GR TWO TONE 1.0,Toyota,2021,15.274,Bogor,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,224000000,4560000
+CALYA G 1.2,Toyota,2016,103.238,Malang,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,113000000,2300000
+BRIO SATYA E 1.2,Honda,2018,69.956,Bogor,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,128000000,2610000
+MOBILIO E 1.5,Honda,2018,51.833,Jakarta Utara,Automatic,even plate,1,0,0,0,0,0,0,1,0,0,0,164000000,3340000
+HR-V E 1.5,Honda,2019,39.444,Jakarta Utara,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,265000000,5400000
+XPANDER SPORT 1.5,Mitsubishi,2019,50.068,Bekasi,Manual,even plate,0,0,1,0,0,1,0,0,0,0,0,200000000,4080000
+BRIO SATYA E 1.2,Honda,2019,40.564,Bogor,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,154000000,3140000
+RUSH S TRD SPORTIVO 1.5,Toyota,2020,9.823,Jakarta Barat,Manual,odd plate,0,0,1,0,0,0,0,0,0,0,0,234000000,4770000
+ERTIGA DREZA 1.4,Suzuki,2017,28.515,Jakarta Barat,Manual,odd plate,0,0,1,0,0,0,0,0,0,0,0,151000000,3080000
+AGYA G TRD 1.2,Toyota,2020,21.982,Surabaya,Manual,even plate,1,0,0,0,0,0,0,0,0,0,0,130000000,2650000
+RUSH S GR SPORT 1.5,Toyota,2021,34.441,Jakarta Selatan,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,242000000,4930000
+XL7 ZETA GL 1.5,Suzuki,2020,37.694,Tangerang Selatan,Automatic,odd plate,1,0,0,0,0,0,0,0,0,0,0,188000000,3830000
+XL7 BETA 1.5,Suzuki,2021,55.142,Bogor,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,208000000,4240000
+AGYA G 1.2,Toyota,2019,68.632,Tangerang Selatan,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,128000000,2610000
+BRIO SATYA E 1.2,Honda,2018,50.958,Jakarta Barat,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,126000000,2570000
+BRIO SATYA E 1.2,Honda,2020,55.045,Depok,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,160000000,3260000
+X-TRAIL URBAN SELECTION 2.5,Nissan,2014,79.564,Depok,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,173000000,3520000
+CALYA G 1.2,Toyota,2022,4.994,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,151000000,3080000
+AYLA X 1.0,Daihatsu,2018,64.067,Bandung,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,99000000,2020000
+CALYA G 1.2,Toyota,2020,46.55,Bekasi,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,137000000,2790000
+CALYA G 1.2,Toyota,2020,36.219,Depok,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,142000000,2890000
+BRIO RS 1.2,Honda,2019,48.518,Jakarta Timur,Automatic,odd plate,0,0,1,0,0,0,0,1,0,0,0,178000000,3630000
+HR-V E 1.5,Honda,2017,73.73,Jakarta Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,219000000,4460000
+JUKE 1.5,Nissan,2014,107.104,Bekasi,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,146000000,2970000
+AGYA G TRD 1.2,Toyota,2018,45.947,Jakarta Timur,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,127000000,2590000
+RUSH S TRD SPORTIVO 1.5,Toyota,2018,34.555,Jakarta Timur,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,214000000,4360000
+BRIO SATYA E 1.2,Honda,2019,16.469,Bekasi,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,141000000,2870000
+CALYA G 1.2,Toyota,2016,65.073,Bekasi,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,108000000,2200000
+AYLA X 1.0,Daihatsu,2014,100.418,Tangerang Selatan,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,84000000,1710000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,80.976,Jakarta Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,1,213000000,4340000
+ROCKY X 1.2,Daihatsu,2021,40.066,Jakarta Barat,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,191000000,3890000
+MOBILIO S 1.5,Honda,2018,34.932,Bogor,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,145000000,2950000
+AVANZA VELOZ 1.5,Toyota,2017,93.58,Bandung,Automatic,odd plate,1,0,0,0,0,0,0,0,0,0,0,164000000,3340000
+IGNIS GX 1.2,Suzuki,2019,54.231,Tangerang Selatan,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,134000000,2730000
+AVANZA E 1.3,Toyota,2018,128.262,Depok,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,130000000,2650000
+SIRION M602RS 1.3,Daihatsu,2017,86.506,Jakarta Barat,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,124000000,2530000
+AYLA X 1.0,Daihatsu,2018,72.413,Bogor,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,91000000,1850000
+SIRION M602RS 1.3,Daihatsu,2012,87.631,Jakarta Utara,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,88000000,1790000
+MOBILIO E 1.5,Honda,2017,63.267,Bogor,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,154000000,3140000
+HR-V E 1.5,Honda,2019,58.95,Jakarta Timur,Automatic,even plate,0,0,1,1,0,0,0,0,0,0,0,264000000,5380000
+KIJANG INNOVA REBORN G 2.4,Toyota,2019,57.91,Bogor,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,340000000,6930000
+CALYA G 1.2,Toyota,2017,92.204,Tangerang Selatan,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,120000000,2440000
+BRIO SATYA E 1.2,Honda,2019,46.521,Tangerang Selatan,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,156000000,3180000
+XENIA R STD 1.3,Daihatsu,2019,33.937,Jakarta Barat,Manual,odd plate,1,0,1,0,0,0,0,0,0,0,0,168000000,3420000
+BR-V E 1.5,Honda,2018,66.961,Bogor,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,184000000,3750000
+XPANDER ULTIMATE 1.5,Mitsubishi,2019,28.437,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,1,222000000,4520000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,54.26,Bekasi,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,213000000,4340000
+FORTUNER G 2.5,Toyota,2014,95.458,Depok,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,274000000,5580000
+MARCH L 1.2,Nissan,2016,89.734,Bogor,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,112000000,2280000
+SX4 S-CROSS 1.5,Suzuki,2018,93.404,Tangerang Selatan,Automatic,even plate,1,0,1,0,0,0,0,0,0,0,0,184000000,3750000
+YARIS S TRD 1.5,Toyota,2021,14.736,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,244000000,4970000
+SIENTA Q 1.5,Toyota,2017,58.365,Jakarta Pusat,Automatic,even plate,0,0,1,0,0,0,0,0,0,1,0,187000000,3810000
+CALYA G 1.2,Toyota,2019,53.807,Jakarta Utara,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,121000000,2470000
+KARIMUN GL 1.0,Suzuki,2015,67.265,Tangerang Selatan,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,86000000,1750000
+ROCKY R 1.0,Daihatsu,2021,37.472,Bandung,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,220000000,4480000
+CROSS 1.2,Datsun,2018,48.865,Bogor,Automatic,odd plate,0,0,0,0,0,1,0,0,0,0,0,112000000,2280000
+BRIO SATYA S 1.2,Honda,2016,28.625,Jakarta Timur,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,112000000,2280000
+GRAND LIVINA SV 1.5,Nissan,2013,109.026,Bogor,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,95000000,1940000
+BR-V PRESTIGE 1.5,Honda,2020,43.749,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,214000000,4360000
+2 GT SKYACTIV 1.5,Mazda,2015,66.182,Jakarta Barat,Automatic,even plate,1,0,0,0,1,0,0,0,0,0,0,181000000,3690000
+XPANDER ULTIMATE 1.5,Mitsubishi,2018,63.203,Jakarta Pusat,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,210000000,4280000
+ALMAZ LT LUX 1.5,Wuling,2019,49.088,Bekasi,Automatic,odd plate,0,0,0,1,0,0,0,0,1,0,0,204000000,4160000
+X-TRAIL 2.5,Nissan,2015,67.756,Bogor,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,209000000,4260000
+COLT L300 PICK UP 2.5,Mitsubishi,2022,1.065,Jakarta Utara,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,177000000,3610000
+SX4 S-CROSS 1.5,Suzuki,2016,76.606,Jakarta Selatan,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,160000000,3260000
+BRIO SATYA E 1.2,Honda,2017,64.556,Bekasi,Automatic,even plate,0,0,0,0,0,0,0,1,0,0,0,132000000,2690000
+PAJERO SPORT DAKAR 4X2 2.4,Mitsubishi,2016,28.906,Tangerang Selatan,Automatic,even plate,0,1,0,1,0,0,0,0,0,0,0,404000000,8230000
+FREED E 1.5,Honda,2010,170.021,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,0,0,1,0,129000000,2630000
+SX4 S-CROSS 1.5,Suzuki,2022,10.206,Tangerang Selatan,Automatic,odd plate,1,0,0,0,0,0,0,0,0,0,0,241000000,4910000
+AVANZA G 1.3,Toyota,2018,24.873,Jakarta Barat,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,160000000,3260000
+CX-5 ELITE 2.5,Mazda,2019,29.44,Bandung,Automatic,even plate,0,1,1,0,0,0,0,0,0,0,0,433000000,8820000
+SIENTA G 1.5,Toyota,2017,70.529,Depok,Automatic,even plate,1,0,0,0,0,0,0,0,0,1,0,163000000,3320000
+SIGRA M 1.0,Daihatsu,2019,18.826,Jakarta Utara,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,109000000,2220000
+SIGRA R 1.2,Daihatsu,2022,8.817,Jakarta Pusat,Manual,even plate,1,0,0,0,0,0,0,0,0,0,0,136000000,2770000
+BRIO SATYA E 1.2,Honda,2016,97.829,Jakarta Pusat,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,118000000,2400000
+BRIO SATYA E 1.2,Honda,2018,61.043,Jakarta Utara,Automatic,odd plate,0,0,0,0,0,0,0,1,0,0,0,142000000,2890000
+2 R 1.5,Mazda,2019,37.929,Jakarta Utara,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,1,220000000,4480000
+AGYA G TRD SPORTIVO 1.2,Toyota,2021,39.599,Jakarta Barat,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,147000000,3000000
+GRAND LIVINA HIGHWAY STAR 1.5,Nissan,2015,60.48,Bogor,Automatic,odd plate,1,0,0,0,0,0,0,0,0,0,0,131000000,2670000
+X-TRAIL 2.0,Nissan,2016,62.427,Jakarta Barat,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,199000000,4050000
+CR-V TURBO PRESTIGE 1.5,Honda,2018,84.641,Jakarta Selatan,Automatic,odd plate,0,1,0,0,0,0,0,0,0,0,0,382000000,7780000
+AVANZA G 1.3,Toyota,2014,104.117,Bekasi,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,122000000,2490000
+3 20I (CKD) 2.0,BMW,2019,47.554,Jakarta Selatan,Automatic,even plate,0,0,0,0,1,0,0,1,0,0,0,446000000,9090000
+MARCH 1.5,Nissan,2015,37.414,Jakarta Utara,Manual,even plate,0,0,1,0,0,0,1,0,0,0,0,113000000,2300000
+CARRY PICK UP 1.5,Suzuki,2021,12.191,Bekasi,Manual,odd plate,1,0,0,0,0,0,0,0,0,0,0,118000000,2400000
+AGYA G 1.0,Toyota,2015,57.783,Bandung,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,100000000,2040000
+IGNIS GX 1.2,Suzuki,2019,20.613,Jakarta Utara,Automatic,odd plate,1,0,0,0,0,0,0,0,0,0,0,145000000,2950000
+SIGRA R STD 1.2,Daihatsu,2019,40.938,Jakarta Barat,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,122000000,2490000
+KIJANG INNOVA REBORN G 2.0,Toyota,2019,44.322,Bogor,Automatic,odd plate,1,0,0,0,0,0,0,1,0,0,0,278000000,5660000
+MARCH 1.2,Nissan,2016,72.14,Jakarta Barat,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,101000000,2060000
+BRIO E 1.3,Honda,2012,88.614,Jakarta Pusat,Manual,odd plate,0,0,0,0,0,0,0,0,0,0,0,102000000,2080000
+SIGRA R STD 1.2,Daihatsu,2018,12.934,Bekasi,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,117000000,2380000
+XPANDER ULTIMATE 1.5,Mitsubishi,2019,51.777,Jakarta Barat,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,1,222000000,4520000
+AVANZA G 1.3,Toyota,2011,66.609,Tangerang Selatan,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,100000000,2040000
+BRIO RS 1.2,Honda,2016,40.559,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,142000000,2890000
+BRIO RS 1.2,Honda,2018,54.763,Bekasi,Automatic,even plate,0,0,1,0,0,0,0,1,0,0,0,155000000,3160000
+MOBILIO E 1.5,Honda,2017,93.915,Jakarta Utara,Automatic,even plate,1,0,0,0,0,0,0,1,0,0,0,159000000,3240000
+RUSH S TRD SPORTIVO 1.5,Toyota,2019,39.522,Bogor,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,224000000,4560000
+SIENTA Q 1.5,Toyota,2017,66.91,Jakarta Timur,Automatic,odd plate,0,0,1,0,0,0,0,0,0,1,0,191000000,3890000
+SIGRA R DLX 1.2,Daihatsu,2017,58.351,Depok,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,121000000,2470000
+XL7 ZETA GL 1.5,Suzuki,2020,35.449,Jakarta Utara,Automatic,odd plate,1,0,0,0,0,0,0,0,0,0,0,192000000,3910000
+BRIO SATYA E 1.2,Honda,2020,19.331,Tangerang Selatan,Automatic,even plate,0,0,0,0,0,0,0,1,0,0,0,165000000,3360000
+RUSH S TRD SPORTIVO 1.5,Toyota,2018,81.269,Jakarta Selatan,Automatic,even plate,0,0,1,0,0,1,0,0,0,0,0,210000000,4280000
+CARRY PICK UP 1.5,Suzuki,2022,14.081,Depok,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,110000000,2240000
+IGNIS GX 1.2,Suzuki,2017,81.783,Jakarta Utara,Automatic,odd plate,0,0,1,0,0,0,1,0,0,0,0,131000000,2670000
+2 GT 1.5,Mazda,2016,53.27,Tangerang Selatan,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,184000000,3750000
+XL7 ALPHA 1.5,Suzuki,2020,52.96,Jakarta Timur,Automatic,even plate,0,0,1,0,0,0,1,0,0,0,0,218000000,4440000
+LIVINA VL 1.5,Nissan,2019,39.145,Jakarta Timur,Automatic,odd plate,0,0,1,0,0,1,0,0,0,0,0,202000000,4120000
+FREED S 1.5,Honda,2013,91.567,Tangerang Selatan,Automatic,even plate,0,0,0,0,0,0,0,0,0,0,0,158000000,3220000
+AGYA G 1.2,Toyota,2018,60.588,Bogor,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,122000000,2490000
+AVANZA VELOZ 1.5,Toyota,2020,50.137,Bogor,Automatic,odd plate,1,0,1,0,0,0,0,0,0,0,0,204000000,4160000
+RAIZE GR SPORT TSS 1.0,Toyota,2021,32.288,Bogor,Automatic,odd plate,0,0,1,0,0,0,0,0,0,0,0,234000000,4770000
+AGYA G TRD 1.2,Toyota,2019,26.474,Jakarta Utara,Automatic,odd plate,0,0,0,0,0,0,0,0,0,0,0,136000000,2770000
+STARGAZER PRIME 1.5,Hyundai,2022,2.651,Bogor,Automatic,even plate,0,0,1,0,0,0,0,0,0,0,0,246000000,5010000
+CALYA G 1.2,Toyota,2017,34.349,Jakarta Utara,Manual,even plate,0,0,0,0,0,0,0,0,0,0,0,116000000,2360000
+XENIA R SPORTY 1.3,Daihatsu,2017,90.74,Bogor,Manual,even plate,1,0,0,0,0,0,0,0,0,0,0,149000000,3040000
